@@ -30,6 +30,21 @@ jobs:
       - name: Build Canvas package
         run: |
           python scripts/build_canvas_package.py
+          
+      - name: Verify Canvas package output
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Files in dist:"
+          ls -lah dist/ || true
+          echo "IMSCC files:"
+          find . -type f -name "*.imscc"
+          echo "Checking expected output:"
+          test -n "$(find dist -maxdepth 1 -name '*.imscc' -print -quit)" || {
+            echo "ERROR: No IMSCC package was generated in dist/"
+            exit 1
+          }
+
 
       - name: Upload Canvas package
         uses: actions/upload-artifact@v4
