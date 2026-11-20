@@ -1,16 +1,16 @@
 {
-  "course": "HEALTHED-445",
-  "pages": 16,
-  "review_pages": 7,
-  "interactives": 9,
-  "placeholder_pages": [
-    "review-pages/module-02/learning-materials.html"
+  "course": "HEALTHED 445",
+  "canonical_pages": 28,
+  "review_entries": 40,
+  "canvas_development_page_updates": "Applied; existing page titles and publication states preserved.",
+  "native_assessments": "Unchanged; not recreated by page-only export.",
+  "instructor_only_materials": "Not included in public additions.",
+  "remaining_review": [
+    "Media and captions/transcripts",
+    "Instructor/syllabus fields",
+    "Faculty assessment reconciliation",
+    "Canvas accessibility review",
+    "SCORM grade reporting"
   ],
-  "not_verified": [
-    "Canvas deployment",
-    "SCORM runtime and grade reporting",
-    "external links",
-    "instructor approval",
-    "missing source pages"
-  ]
+  "existing_urls_preserved": true
 }

@@ -1,0 +1,372 @@
+{
+  "course": "HEALTHED 445",
+  "repository": "healthed-445-course",
+  "canvas_target": "https://uwwtw.instructure.com/courses/883180",
+  "package_scope": "Pages and hosted practice links; native graded items preserved separately",
+  "modules": [
+    {
+      "id": "4685180",
+      "title": "⭐ Course Information (Start Here)",
+      "items": [
+        {
+          "id": "start-here/01-welcome-to-healthed-445",
+          "title": "Welcome to {PEPROF___}",
+          "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+          "source": "context_module_item_33422362",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/welcome-to-%7Bpeprof-%7D",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/02-meet-your-instructor-insert-name",
+          "title": "Meet Your Instructor: {Insert name}",
+          "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+          "source": "context_module_item_33422363",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/meet-your-instructor-%7Binsert-name%7D",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/03-syllabus-and-course-schedule",
+          "title": "Syllabus and Course Schedule",
+          "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+          "source": "context_module_item_33422364",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/syllabus-and-course-schedule",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/04-getting-help-canvas-tech-accommodations-library-services",
+          "title": "Getting Help: Canvas, Tech, Accommodations, Library Services",
+          "file": "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html",
+          "source": "context_module_item_33422365",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/getting-help-canvas-tech-accommodations-library-services",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "start-here/05-university-policies",
+          "title": "University Policies",
+          "file": "canvas/pages/start-here/05-university-policies.html",
+          "source": "context_module_item_33422366",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/university-policies",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4697403",
+      "title": "🎯 Ongoing Course Project and Assignments",
+      "items": [
+        {
+          "id": "toolkit/project-overview",
+          "title": "Teaching Toolkit Project: Introduction and Sneak Peek",
+          "file": "canvas/pages/toolkit/project-overview.html",
+          "source": "context_module_item_33540567",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/teaching-toolkit-project-introduction-and-sneak-peek",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "module-00",
+      "title": "Module 0: Pre-Student Teaching in Health Education",
+      "items": [
+        {
+          "id": "module-00/01-m0-start-here-pre-student-teaching",
+          "title": "@ M0 Start Here: Pre-Student Teaching",
+          "file": "canvas/pages/module-00/01-m0-start-here-pre-student-teaching.html",
+          "source": "context_module_item_33842870",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/at-m0-start-here-pre-student-teaching",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-00/02-m0-observe-practice-and-prepare",
+          "title": "@ M0 Observe, Practice, and Prepare",
+          "file": "canvas/pages/module-00/02-m0-observe-practice-and-prepare.html",
+          "source": "context_module_item_33842947",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/at-m0-observe-practice-and-prepare",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-00/03-university-supervisor-observation",
+          "title": "M0 University Supervisor Observation",
+          "file": "canvas/pages/module-00/03-university-supervisor-observation.html",
+          "source": "Consolidated from current Module 0 and existing pre/post-observation descriptions; clinical requirement from brief",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m0-university-supervisor-observation",
+          "deployment_status": "created-unpublished",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-00/04-reflect-and-finish",
+          "title": "M0 Reflect and Finish",
+          "file": "canvas/pages/module-00/04-reflect-and-finish.html",
+          "source": "Consolidated current requirements; no new graded activity",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m0-reflect-and-finish",
+          "deployment_status": "created-unpublished",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4685181",
+      "title": "Module 1: The Purpose & Power of Health Education",
+      "items": [
+        {
+          "id": "module-01/01-m1-introduction-resources-to-dos-need-video",
+          "title": "@ M1 Introduction, Resources, To-Dos (need video)",
+          "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+          "source": "context_module_item_33659267",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/at-m1-introduction-resources-to-dos-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-01/03-m1-learning-materials-need-lecture-and-infographic",
+          "title": "@ M1 Learning Materials (need lecture and infographic)",
+          "file": "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html",
+          "source": "context_module_item_33659107",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/at-m1-learning-materials-need-lecture-and-infographic",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4696602",
+      "title": "Module 2: Planning Skills-Based Health Learning",
+      "items": [
+        {
+          "id": "module-02/01-m2-introduction-resources-to-dos-need-video",
+          "title": "@ M2 Introduction, Resources, To-Dos (need video)",
+          "file": "canvas/pages/module-02/01-m2-introduction-resources-to-dos-need-video.html",
+          "source": "context_module_item_33532503",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/at-m2-introduction-resources-to-dos-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video",
+          "title": "M2 Learning Materials: Planning Skills-Based Health Learning (need video)",
+          "file": "canvas/pages/module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video.html",
+          "source": "context_module_item_33532504",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m2-learning-materials-planning-skills-based-health-learning-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4696605",
+      "title": "Module 3: Teaching Health Skills Through Practice",
+      "items": [
+        {
+          "id": "module-03/01-m3-introduction-resources-to-dos-need-video",
+          "title": "M3 Introduction, Resources, To-Dos (need video)",
+          "file": "canvas/pages/module-03/01-m3-introduction-resources-to-dos-need-video.html",
+          "source": "context_module_item_33532511",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m3-introduction-resources-to-dos-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-03/03-m3-learning-materials-need-lecture",
+          "title": "M3 Learning Materials (need lecture)",
+          "file": "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html",
+          "source": "context_module_item_33532512",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m3-learning-materials-need-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4699871",
+      "title": "Module 4: Managing a Health Classroom",
+      "items": [
+        {
+          "id": "module-04/01-m4-introduction-resources-to-dos-insert-video",
+          "title": "M4 Introduction, Resources, To-Dos (insert video)",
+          "file": "canvas/pages/module-04/01-m4-introduction-resources-to-dos-insert-video.html",
+          "source": "context_module_item_33562220",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m4-introduction-resources-to-dos-insert-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-04/03-m4-learning-materials-need-lecture",
+          "title": "M4 Learning Materials (need lecture)",
+          "file": "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html",
+          "source": "context_module_item_33562221",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m4-learning-materials-need-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4700843",
+      "title": "Module 5: Planning a Complete, Inclusive Lesson",
+      "items": [
+        {
+          "id": "module-05/01-m5-introduction-resources-to-dos-need-video",
+          "title": "M5 Introduction, Resources, To-Dos (need video)",
+          "file": "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+          "source": "context_module_item_33572132",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m5-introduction-resources-to-dos-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-05/03-m5-learning-materials-insert-lecture",
+          "title": "M5 Learning Materials (Insert lecture)",
+          "file": "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+          "source": "context_module_item_33572133",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m5-learning-materials-insert-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4700852",
+      "title": "Module 6: Responding While Teaching",
+      "items": [
+        {
+          "id": "module-06/01-m6-introduction-resources-to-dos",
+          "title": "M6 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html",
+          "source": "context_module_item_33572162",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m6-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-06/03-m6-learning-materials-include-lecture",
+          "title": "M6 Learning Materials (include lecture)",
+          "file": "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html",
+          "source": "context_module_item_33572163",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m6-learning-materials-include-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4700989",
+      "title": "Module 7: Assess Learning and Adjust Instruction",
+      "items": [
+        {
+          "id": "module-07/01-m7-introduction-resources-to-dos-need-video",
+          "title": "M7 Introduction, Resources, To-Dos  (need video)",
+          "file": "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+          "source": "context_module_item_33573539",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m7-introduction-resources-to-dos-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-07/03-m7-learning-materials-insert-lecture",
+          "title": "M7 Learning Materials  (insert lecture)",
+          "file": "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+          "source": "context_module_item_33573540",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m7-learning-materials-insert-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4700990",
+      "title": "Module 8: Design a Skills-Based Health Unit",
+      "items": [
+        {
+          "id": "module-08/01-m8-introduction-resources-to-dos-need-video",
+          "title": "M8 Introduction, Resources, To-Dos (need video)",
+          "file": "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+          "source": "context_module_item_33573545",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m8-introduction-resources-to-dos-need-video",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-08/03-m8-learning-materials-need-lecture",
+          "title": "M8 Learning Materials (need lecture)",
+          "file": "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html",
+          "source": "context_module_item_33573546",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m8-learning-materials-need-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "4700991",
+      "title": "Module 9: Reflect and Put Your Work Together",
+      "items": [
+        {
+          "id": "module-09/01-m9-introduction-resources-to-dos",
+          "title": "M9 Introduction, Resources, To-Dos",
+          "file": "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html",
+          "source": "context_module_item_33573550",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m9-introduction-resources-to-dos",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        },
+        {
+          "id": "module-09/03-m9-learning-materials-include-lecture",
+          "title": "M9 Learning Materials (include lecture)",
+          "file": "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html",
+          "source": "context_module_item_33573551",
+          "kind": "page",
+          "source_url": "https://uwwtw.instructure.com/courses/883180/pages/m9-learning-materials-include-lecture",
+          "deployment_status": "updated-existing",
+          "publication_preserved": true
+        }
+      ]
+    }
+  ],
+  "deployment": {
+    "courses_updated": true,
+    "course_id": "883180",
+    "existing_pages_updated": 26,
+    "new_pages_created_unpublished": 2,
+    "native_assignments_or_grading_modified": false,
+    "extra_practice_pages_created": false
+  },
+  "privacy": {
+    "native_assessment_source": "Retained privately; existing native Canvas tools unchanged.",
+    "instructor_materials": "Excluded from public additions."
+  }
+}

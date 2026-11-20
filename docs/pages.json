@@ -1,17 +1,199 @@
 [
   {
-    "path": "review-pages/module-01/01-introduction.html",
-    "title": "01 Introduction",
-    "group": "module-01",
+    "path": "canvas-pages/start-here/01-welcome-to-healthed-445.html",
+    "title": "Welcome to {PEPROF___}",
+    "group": "⭐ Course Information (Start Here)",
     "kind": "Canvas HTML",
-    "size": 3673
+    "size": 3238
+  },
+  {
+    "path": "canvas-pages/start-here/02-meet-your-instructor-insert-name.html",
+    "title": "Meet Your Instructor: {Insert name}",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 4230
+  },
+  {
+    "path": "canvas-pages/start-here/03-syllabus-and-course-schedule.html",
+    "title": "Syllabus and Course Schedule",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 2947
+  },
+  {
+    "path": "canvas-pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html",
+    "title": "Getting Help: Canvas, Tech, Accommodations, Library Services",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 6055
+  },
+  {
+    "path": "canvas-pages/start-here/05-university-policies.html",
+    "title": "University Policies",
+    "group": "⭐ Course Information (Start Here)",
+    "kind": "Canvas HTML",
+    "size": 5196
+  },
+  {
+    "path": "canvas-pages/toolkit/project-overview.html",
+    "title": "Teaching Toolkit Project: Introduction and Sneak Peek",
+    "group": "🎯 Ongoing Course Project and Assignments",
+    "kind": "Canvas HTML",
+    "size": 6398
+  },
+  {
+    "path": "canvas-pages/module-00/01-m0-start-here-pre-student-teaching.html",
+    "title": "@ M0 Start Here: Pre-Student Teaching",
+    "group": "Module 0: Pre-Student Teaching in Health Education",
+    "kind": "Canvas HTML",
+    "size": 4806
+  },
+  {
+    "path": "canvas-pages/module-00/02-m0-observe-practice-and-prepare.html",
+    "title": "@ M0 Observe, Practice, and Prepare",
+    "group": "Module 0: Pre-Student Teaching in Health Education",
+    "kind": "Canvas HTML",
+    "size": 5475
+  },
+  {
+    "path": "canvas-pages/module-00/03-university-supervisor-observation.html",
+    "title": "M0 University Supervisor Observation",
+    "group": "Module 0: Pre-Student Teaching in Health Education",
+    "kind": "Canvas HTML",
+    "size": 2866
+  },
+  {
+    "path": "canvas-pages/module-00/04-reflect-and-finish.html",
+    "title": "M0 Reflect and Finish",
+    "group": "Module 0: Pre-Student Teaching in Health Education",
+    "kind": "Canvas HTML",
+    "size": 2803
+  },
+  {
+    "path": "review-pages/module-01/01-introduction.html",
+    "title": "@ M1 Introduction, Resources, To-Dos (need video)",
+    "group": "Module 1: The Purpose & Power of Health Education",
+    "kind": "Canvas HTML",
+    "size": 5161
   },
   {
     "path": "review-pages/module-01/02-learning-materials.html",
-    "title": "02 Learning Materials",
-    "group": "module-01",
+    "title": "@ M1 Learning Materials (need lecture and infographic)",
+    "group": "Module 1: The Purpose & Power of Health Education",
     "kind": "Canvas HTML",
-    "size": 5946
+    "size": 7970
+  },
+  {
+    "path": "review-pages/module-02/introduction.html",
+    "title": "@ M2 Introduction, Resources, To-Dos (need video)",
+    "group": "Module 2: Planning Skills-Based Health Learning",
+    "kind": "Canvas HTML",
+    "size": 5597
+  },
+  {
+    "path": "review-pages/module-02/learning-materials.html",
+    "title": "M2 Learning Materials: Planning Skills-Based Health Learning (need video)",
+    "group": "Module 2: Planning Skills-Based Health Learning",
+    "kind": "Canvas HTML",
+    "size": 3477
+  },
+  {
+    "path": "canvas-pages/module-03/01-m3-introduction-resources-to-dos-need-video.html",
+    "title": "M3 Introduction, Resources, To-Dos (need video)",
+    "group": "Module 3: Teaching Health Skills Through Practice",
+    "kind": "Canvas HTML",
+    "size": 3238
+  },
+  {
+    "path": "canvas-pages/module-03/03-m3-learning-materials-need-lecture.html",
+    "title": "M3 Learning Materials (need lecture)",
+    "group": "Module 3: Teaching Health Skills Through Practice",
+    "kind": "Canvas HTML",
+    "size": 5587
+  },
+  {
+    "path": "canvas-pages/module-04/01-m4-introduction-resources-to-dos-insert-video.html",
+    "title": "M4 Introduction, Resources, To-Dos (insert video)",
+    "group": "Module 4: Managing a Health Classroom",
+    "kind": "Canvas HTML",
+    "size": 3454
+  },
+  {
+    "path": "canvas-pages/module-04/03-m4-learning-materials-need-lecture.html",
+    "title": "M4 Learning Materials (need lecture)",
+    "group": "Module 4: Managing a Health Classroom",
+    "kind": "Canvas HTML",
+    "size": 4745
+  },
+  {
+    "path": "canvas-pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+    "title": "M5 Introduction, Resources, To-Dos (need video)",
+    "group": "Module 5: Planning a Complete, Inclusive Lesson",
+    "kind": "Canvas HTML",
+    "size": 3769
+  },
+  {
+    "path": "canvas-pages/module-05/03-m5-learning-materials-insert-lecture.html",
+    "title": "M5 Learning Materials (Insert lecture)",
+    "group": "Module 5: Planning a Complete, Inclusive Lesson",
+    "kind": "Canvas HTML",
+    "size": 13188
+  },
+  {
+    "path": "canvas-pages/module-06/01-m6-introduction-resources-to-dos.html",
+    "title": "M6 Introduction, Resources, To-Dos",
+    "group": "Module 6: Responding While Teaching",
+    "kind": "Canvas HTML",
+    "size": 3599
+  },
+  {
+    "path": "canvas-pages/module-06/03-m6-learning-materials-include-lecture.html",
+    "title": "M6 Learning Materials (include lecture)",
+    "group": "Module 6: Responding While Teaching",
+    "kind": "Canvas HTML",
+    "size": 7553
+  },
+  {
+    "path": "canvas-pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+    "title": "M7 Introduction, Resources, To-Dos  (need video)",
+    "group": "Module 7: Assess Learning and Adjust Instruction",
+    "kind": "Canvas HTML",
+    "size": 3775
+  },
+  {
+    "path": "canvas-pages/module-07/03-m7-learning-materials-insert-lecture.html",
+    "title": "M7 Learning Materials  (insert lecture)",
+    "group": "Module 7: Assess Learning and Adjust Instruction",
+    "kind": "Canvas HTML",
+    "size": 14508
+  },
+  {
+    "path": "canvas-pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+    "title": "M8 Introduction, Resources, To-Dos (need video)",
+    "group": "Module 8: Design a Skills-Based Health Unit",
+    "kind": "Canvas HTML",
+    "size": 3595
+  },
+  {
+    "path": "canvas-pages/module-08/03-m8-learning-materials-need-lecture.html",
+    "title": "M8 Learning Materials (need lecture)",
+    "group": "Module 8: Design a Skills-Based Health Unit",
+    "kind": "Canvas HTML",
+    "size": 8540
+  },
+  {
+    "path": "canvas-pages/module-09/01-m9-introduction-resources-to-dos.html",
+    "title": "M9 Introduction, Resources, To-Dos",
+    "group": "Module 9: Reflect and Put Your Work Together",
+    "kind": "Canvas HTML",
+    "size": 3680
+  },
+  {
+    "path": "canvas-pages/module-09/03-m9-learning-materials-include-lecture.html",
+    "title": "M9 Learning Materials (include lecture)",
+    "group": "Module 9: Reflect and Put Your Work Together",
+    "kind": "Canvas HTML",
+    "size": 10038
   },
   {
     "path": "review-pages/module-01/03-discussion.html",
@@ -33,20 +215,6 @@
     "group": "module-02",
     "kind": "Canvas HTML",
     "size": 7536
-  },
-  {
-    "path": "review-pages/module-02/introduction.html",
-    "title": "Introduction",
-    "group": "module-02",
-    "kind": "Canvas HTML",
-    "size": 3793
-  },
-  {
-    "path": "review-pages/module-02/learning-materials.html",
-    "title": "Learning Materials",
-    "group": "module-02",
-    "kind": "Canvas HTML",
-    "size": 2640
   },
   {
     "path": "interactives/m1-knowledge-check/index.html",

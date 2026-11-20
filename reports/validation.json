@@ -1,0 +1,1244 @@
+{
+  "course": "HEALTHED 445",
+  "modules": 12,
+  "pages": 28,
+  "errors": 0,
+  "review_findings": 44,
+  "issues": [
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "finding": "Unresolved field: {Course Name}"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "finding": "Unresolved field: {INSERT VIDEO OF COURSE INTRODUCTION}"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "finding": "Unresolved field: {Insert name}"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "finding": "Unresolved field: {INSERT VIDEO}"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "finding": "Unresolved field: {INSERT LINK}"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Embed captioned Module 1 introduction video and transcript link.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Add the verified Rise lesson link or embed.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Embed captioned lecture segments and transcript link.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/01-m2-introduction-resources-to-dos-need-video.html",
+      "finding": "Unresolved field: [INSTRUCTOR: Embed your captioned Canvas Studio introduction video here.]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/01-m2-introduction-resources-to-dos-need-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M2 LECTURE AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-03/01-m3-introduction-resources-to-dos-need-video.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M3 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-03/01-m3-introduction-resources-to-dos-need-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M3 LECTURE AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html",
+      "finding": "Unresolved field: [INSERT M3 RISE MINI-LESSON LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-04/01-m4-introduction-resources-to-dos-insert-video.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M4 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-04/01-m4-introduction-resources-to-dos-insert-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M4 LECTURE AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html",
+      "finding": "Unresolved field: [INSERT M4 RISE MINI-LESSON LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M5 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M5 LECTURE SEGMENTS AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M6 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M6 LECTURE SEGMENTS AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M7 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M7 LECTURE SEGMENTS AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M8 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+      "finding": "Media or assessment preparation remains"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M8 LECTURE SEGMENTS AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M9 INTRODUCTION VIDEO AND TRANSCRIPT LINK]"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html",
+      "finding": "Verify table headers and mobile reflow"
+    },
+    {
+      "severity": "review",
+      "file": "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html",
+      "finding": "Unresolved field: [INSERT CAPTIONED M9 LECTURE SEGMENTS AND TRANSCRIPT LINK]"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373551/preview",
+      "pages": [
+        "canvas/pages/start-here/01-welcome-to-healthed-445.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373572?wrap=1",
+      "pages": [
+        "canvas/pages/start-here/01-welcome-to-healthed-445.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "pages": [
+        "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+        "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html",
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/external_tools/retrieve?display=borderless&url=https%3A%2F%2F2370711-14.kaf.kaltura.com%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_sdos31gk%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F896x504%2FplayerSkin%2F54949472%2FthumbEmbed%2F0%2FautoPlay%2F0%2FstartTime%2F0%2FendTime%2F0%2FisPlaylist%2F0%2F",
+      "pages": [
+        "canvas/pages/start-here/01-welcome-to-healthed-445.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview",
+      "pages": [
+        "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html",
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373582?wrap=1",
+      "pages": [
+        "canvas/pages/start-here/02-meet-your-instructor-insert-name.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uww.webex.com/meet/hollettn",
+      "pages": [
+        "canvas/pages/start-here/02-meet-your-instructor-insert-name.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/external_tools/retrieve?display=borderless&url=https%3A%2F%2F2370711-14.kaf.kaltura.com%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_efuzf5ku%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F896x504%2FplayerSkin%2F54949472%2FthumbEmbed%2F0%2FautoPlay%2F0%2FstartTime%2F0%2FendTime%2F0%2FisPlaylist%2F0%2F",
+      "pages": [
+        "canvas/pages/start-here/02-meet-your-instructor-insert-name.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview?",
+      "pages": [
+        "canvas/pages/start-here/03-syllabus-and-course-schedule.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview?",
+      "pages": [
+        "canvas/pages/start-here/03-syllabus-and-course-schedule.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112810204?wrap=1",
+      "pages": [
+        "canvas/pages/start-here/03-syllabus-and-course-schedule.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112810204/download?download_frd=1",
+      "pages": [
+        "canvas/pages/start-here/03-syllabus-and-course-schedule.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://media.uwex.edu/lms_support/ceoel/canvas_quick_guide_forlearners.pdf",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=33aLtc6ZDOg",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/enroll/JN7J9W",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/its/helpdesk",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uww.service-now.com/sp/?id=kb_article_view&sysparm_article=KB0010839",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/csd/apply-now",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.instructure.com/accessibility",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "http://library.uww.edu",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/library/my-accounts",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://libguides.uww.edu/?b=s",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "http://libguides.uww.edu/az.php",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://geturl.uww.edu/1s5",
+      "pages": [
+        "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://geturl.uww.edu/1wk",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/dean-of-students/uws-chapter-14-student-academic-disciplinary-procedures#academic-misconduct-investigation-process-at-uw-whitewater-chapter-14",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/icit/services/turnitin#TrainingDocumentation",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.turnitin.com/blog/our-commitment-to-data-privacy-turnitin-and-gdpr",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://geturl.uww.edu/1wd",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://geturl.uww.edu/1wm",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "http://uww-public.courseleaf.com/general-information/academic-legal-policies/",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/student-handbook/policies-computers#:~:text=UW-Whitewater%20encourages%20faculty%2C%20staff%20and%20students%20to%20use,Chapter%20293%2C%20Laws%20of%201981%2C%20943.70%2C%20Computer%20Crimes.",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/registrar/ferpa",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules",
+      "pages": [
+        "canvas/pages/start-here/05-university-policies.html",
+        "canvas/pages/toolkit/project-overview.html",
+        "canvas/pages/module-00/04-reflect-and-finish.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614838/preview",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614831/preview",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/pages/gf14dd088fdabb09d76edfb313977d6c8",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614833?wrap=1",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614833/download?download_frd=1",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://drive.google.com/a/uww.edu",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.uww.edu/its/services/google",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://support.google.com/drive/answer/2424368?hl=en&co=GENIE.Platform%3DDesktop&sjid=2412785217028022567-NC",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614837/preview",
+      "pages": [
+        "canvas/pages/toolkit/project-overview.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084840?module_item_id=33540579",
+      "pages": [
+        "canvas/pages/module-00/03-university-supervisor-observation.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084839?module_item_id=33540580",
+      "pages": [
+        "canvas/pages/module-00/03-university-supervisor-observation.html",
+        "canvas/pages/module-00/04-reflect-and-finish.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084824?module_item_id=33540577",
+      "pages": [
+        "canvas/pages/module-00/04-reflect-and-finish.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/pages/m1-learning-materials-need-lecture-and-infographic",
+      "pages": [
+        "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.shapeamerica.org/standards/health/new-he-standards/",
+      "pages": [
+        "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+        "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html",
+        "canvas/pages/module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video.html",
+        "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html",
+        "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+        "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+        "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11175296",
+      "pages": [
+        "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11047801",
+      "pages": [
+        "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11097053",
+      "pages": [
+        "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826555",
+      "pages": [
+        "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m1-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/113704495?wrap=1",
+      "pages": [
+        "canvas/pages/module-02/01-m2-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1pNw3E7wjj0HLnW-Q1wTZAuCLTJHku_TO/view?usp=drive_link",
+      "pages": [
+        "canvas/pages/module-02/01-m2-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826691",
+      "pages": [
+        "canvas/pages/module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m2-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.cdc.gov/clean-hands/prevention/about-hand-hygiene-in-schools-and-early-care-and-education-settings.html",
+      "pages": [
+        "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826254",
+      "pages": [
+        "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m3-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.cdc.gov/classroom-management/approaches/teacher-caring-support.html",
+      "pages": [
+        "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826696",
+      "pages": [
+        "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m4-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628327",
+      "pages": [
+        "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572135",
+      "pages": [
+        "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572136",
+      "pages": [
+        "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/116375262?wrap=1",
+      "pages": [
+        "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/files/116375253?wrap=1",
+      "pages": [
+        "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://udlguidelines.cast.org/representation/",
+      "pages": [
+        "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+        "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826703",
+      "pages": [
+        "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m5-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628414",
+      "pages": [
+        "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572165",
+      "pages": [
+        "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572166",
+      "pages": [
+        "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://www.epa.gov/dera/school-bus-idle-reduction",
+      "pages": [
+        "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826711",
+      "pages": [
+        "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m6-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628567",
+      "pages": [
+        "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573542",
+      "pages": [
+        "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573543",
+      "pages": [
+        "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826716",
+      "pages": [
+        "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m7-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628570",
+      "pages": [
+        "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573548",
+      "pages": [
+        "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573549",
+      "pages": [
+        "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826727",
+      "pages": [
+        "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m8-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628574",
+      "pages": [
+        "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573553",
+      "pages": [
+        "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573554",
+      "pages": [
+        "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826739",
+      "pages": [
+        "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html"
+      ],
+      "status": "not checked"
+    },
+    {
+      "url": "https://hollettn-prog.github.io/healthed-445-course/interactives/m9-knowledge-check/",
+      "pages": [
+        "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html"
+      ],
+      "status": "not checked"
+    }
+  ],
+  "native_links": [
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373551/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373572?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373551/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/external_tools/retrieve?display=borderless&url=https%3A%2F%2F2370711-14.kaf.kaltura.com%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_sdos31gk%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F896x504%2FplayerSkin%2F54949472%2FthumbEmbed%2F0%2FautoPlay%2F0%2FstartTime%2F0%2FendTime%2F0%2FisPlaylist%2F0%2F",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373572?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/01-welcome-to-healthed-445.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373582?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/external_tools/retrieve?display=borderless&url=https%3A%2F%2F2370711-14.kaf.kaltura.com%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_efuzf5ku%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F896x504%2FplayerSkin%2F54949472%2FthumbEmbed%2F0%2FautoPlay%2F0%2FstartTime%2F0%2FendTime%2F0%2FisPlaylist%2F0%2F",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373582?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/02-meet-your-instructor-insert-name.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview?",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview?",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview?",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112810204?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112810204/download?download_frd=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/03-syllabus-and-course-schedule.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview?",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/04-getting-help-canvas-tech-accommodations-library-services.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373550/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "url": "https://uwwtw.instructure.com/courses/847289/files/112373548/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/start-here/05-university-policies.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614838/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614831/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/pages/gf14dd088fdabb09d76edfb313977d6c8",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614833?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614833/download?download_frd=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/114614837/preview",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/toolkit/project-overview.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-00/03-university-supervisor-observation.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084840?module_item_id=33540579",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-00/03-university-supervisor-observation.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084839?module_item_id=33540580",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-00/04-reflect-and-finish.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084824?module_item_id=33540577",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-00/04-reflect-and-finish.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11084839?module_item_id=33540580",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-00/04-reflect-and-finish.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/pages/m1-learning-materials-need-lecture-and-infographic",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/pages/m1-learning-materials-need-lecture-and-infographic",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11175296",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11047801",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/01-m1-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/assignments/11097053",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-01/03-m1-learning-materials-need-lecture-and-infographic.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826555",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-02/01-m2-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/113704495?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-02/03-m2-learning-materials-planning-skills-based-health-learning-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826691",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-03/03-m3-learning-materials-need-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826254",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-04/03-m4-learning-materials-need-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826696",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628327",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572135",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/01-m5-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572136",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/116375262?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/files/116375253?wrap=1",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-05/03-m5-learning-materials-insert-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826703",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628414",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572165",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-06/01-m6-introduction-resources-to-dos.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33572166",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-06/03-m6-learning-materials-include-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826711",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628567",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573542",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-07/01-m7-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573543",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-07/03-m7-learning-materials-insert-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826716",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628570",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573548",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-08/01-m8-introduction-resources-to-dos-need-video.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573549",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-08/03-m8-learning-materials-need-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826727",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33628574",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573553",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-09/01-m9-introduction-resources-to-dos.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33573554",
+      "status": "Requires target-course rebind or verified existing native item"
+    },
+    {
+      "file": "canvas/pages/module-09/03-m9-learning-materials-include-lecture.html",
+      "url": "https://uwwtw.instructure.com/courses/883180/modules/items/33826739",
+      "status": "Requires target-course rebind or verified existing native item"
+    }
+  ],
+  "import_verified": false,
+  "package": {
+    "file": "HEALTHED-445-pages-review.imscc",
+    "sha256": "3c552bfd89f7aefd665618172995a872129c28019709f91f25bb6ccacfee3064",
+    "zip_xml_references_verified": true,
+    "canvas_import_verified": false
+  }
+}
