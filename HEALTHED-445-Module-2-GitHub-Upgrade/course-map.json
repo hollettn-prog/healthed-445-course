@@ -1,0 +1,23 @@
+{
+  "course": "HEALTHED 445",
+  "modules": [
+    {
+      "number": 2,
+      "title": "Module 2: What Would Count as Learning?",
+      "pages": [
+        {
+          "file": "modules/module-02/introduction.html",
+          "title": "M2 Introduction, Resources, To-Dos"
+        },
+        {
+          "file": "modules/module-02/learning-materials.html",
+          "title": "M2 Learning Materials"
+        },
+        {
+          "file": "modules/module-02/discussion.html",
+          "title": "M2 Discussion: What Would Count as Learning?"
+        }
+      ]
+    }
+  ]
+}
