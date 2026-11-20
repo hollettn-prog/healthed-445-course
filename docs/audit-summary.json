@@ -1,0 +1,16 @@
+{
+  "course": "HEALTHED-445",
+  "pages": 16,
+  "review_pages": 7,
+  "interactives": 9,
+  "placeholder_pages": [
+    "review-pages/module-02/learning-materials.html"
+  ],
+  "not_verified": [
+    "Canvas deployment",
+    "SCORM runtime and grade reporting",
+    "external links",
+    "instructor approval",
+    "missing source pages"
+  ]
+}

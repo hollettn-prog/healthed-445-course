@@ -1,0 +1,114 @@
+[
+  {
+    "path": "review-pages/module-01/01-introduction.html",
+    "title": "01 Introduction",
+    "group": "module-01",
+    "kind": "Canvas HTML",
+    "size": 3673
+  },
+  {
+    "path": "review-pages/module-01/02-learning-materials.html",
+    "title": "02 Learning Materials",
+    "group": "module-01",
+    "kind": "Canvas HTML",
+    "size": 5946
+  },
+  {
+    "path": "review-pages/module-01/03-discussion.html",
+    "title": "03 Discussion",
+    "group": "module-01",
+    "kind": "Canvas HTML",
+    "size": 2673
+  },
+  {
+    "path": "review-pages/module-01/04-toolkit-assignment.html",
+    "title": "04 Toolkit Assignment",
+    "group": "module-01",
+    "kind": "Canvas HTML",
+    "size": 3550
+  },
+  {
+    "path": "review-pages/module-02/discussion.html",
+    "title": "Discussion",
+    "group": "module-02",
+    "kind": "Canvas HTML",
+    "size": 7536
+  },
+  {
+    "path": "review-pages/module-02/introduction.html",
+    "title": "Introduction",
+    "group": "module-02",
+    "kind": "Canvas HTML",
+    "size": 3793
+  },
+  {
+    "path": "review-pages/module-02/learning-materials.html",
+    "title": "Learning Materials",
+    "group": "module-02",
+    "kind": "Canvas HTML",
+    "size": 2640
+  },
+  {
+    "path": "interactives/m1-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m1-knowledge-check",
+    "kind": "Interactive",
+    "size": 9831
+  },
+  {
+    "path": "interactives/m2-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m2-knowledge-check",
+    "kind": "Interactive",
+    "size": 10749
+  },
+  {
+    "path": "interactives/m3-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m3-knowledge-check",
+    "kind": "Interactive",
+    "size": 14273
+  },
+  {
+    "path": "interactives/m4-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m4-knowledge-check",
+    "kind": "Interactive",
+    "size": 11130
+  },
+  {
+    "path": "interactives/m5-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m5-knowledge-check",
+    "kind": "Interactive",
+    "size": 10833
+  },
+  {
+    "path": "interactives/m6-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m6-knowledge-check",
+    "kind": "Interactive",
+    "size": 10961
+  },
+  {
+    "path": "interactives/m7-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m7-knowledge-check",
+    "kind": "Interactive",
+    "size": 10857
+  },
+  {
+    "path": "interactives/m8-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m8-knowledge-check",
+    "kind": "Interactive",
+    "size": 10874
+  },
+  {
+    "path": "interactives/m9-knowledge-check/index.html",
+    "title": "Index",
+    "group": "m9-knowledge-check",
+    "kind": "Interactive",
+    "size": 10816
+  }
+]
