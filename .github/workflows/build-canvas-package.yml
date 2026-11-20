@@ -1,0 +1,39 @@
+
+name: Build Canvas Package
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "modules/**"
+      - "scripts/**"
+      - ".github/workflows/build-canvas-package.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build Canvas package
+        run: |
+          python scripts/build_canvas_package.py
+
+      - name: Upload Canvas package
+        uses: actions/upload-artifact@v4
+        with:
+          name: HEALTHED-445-Canvas-Package
+          path: dist/*.imscc
+          if-no-files-found: error
