@@ -126,3 +126,6 @@ def build():
     print(f'Modules: {len(grouped)}; pages: {page_count}')
     print('Canvas import still requires sandbox verification.')
 
+if __name__ == "__main__":
+    build()
+
