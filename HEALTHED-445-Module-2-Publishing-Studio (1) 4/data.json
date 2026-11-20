@@ -1,0 +1,23 @@
+[
+  {
+    "id": "introduction",
+    "title": "M2 Introduction, Resources, To-Dos",
+    "file": "pages/introduction.html",
+    "source": "wiki_content/done-m2-introduction-resources-to-dos-need-video.html",
+    "status": "Needs instructor review"
+  },
+  {
+    "id": "learning-materials",
+    "title": "M2 Learning Materials",
+    "file": "pages/learning-materials.html",
+    "source": "wiki_content/m2-learning-materials-planning-skills-based-health-learning-need-video.html",
+    "status": "Needs instructor review"
+  },
+  {
+    "id": "discussion",
+    "title": "M2 Discussion: What Would Count as Learning?",
+    "file": "pages/discussion.html",
+    "source": "g6966dc34deb6ea2bc09de0c4ce9dea29/m2-discussion-what-would-count-as-learning.html",
+    "status": "Needs instructor review"
+  }
+]
