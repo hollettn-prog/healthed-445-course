@@ -126,6 +126,8 @@ def build():
     print('Upload the .imscc file inside the GitHub artifact ZIP, not the artifact ZIP itself.')
 
 
+
 if __name__ == "__main__":
-    main()
+    build()
+
 
